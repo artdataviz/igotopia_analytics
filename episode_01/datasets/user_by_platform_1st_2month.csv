@@ -1,0 +1,25 @@
+# ----------------------------------------
+# geckodigital.co
+# Free form-Free form 2
+# 20240121-20240321
+# ----------------------------------------
+
+Device category,Segment,Active users
+,,39123,Grand total
+mobile,Mobile traffic,39114
+desktop,Mobile traffic,76
+tablet,Mobile traffic,10
+
+Device category,Segment,Active users
+,,1665,Grand total
+tablet,Tablet traffic,1664
+mobile,Tablet traffic,9
+desktop,Tablet traffic,6
+
+Device category,Active users
+,82699,Grand total
+desktop,41804
+mobile,39039
+tablet,1665
+smart tv,9
+
